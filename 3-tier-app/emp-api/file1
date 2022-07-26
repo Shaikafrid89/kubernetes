@@ -19,3 +19,6 @@ spec:
         image: kammana/boot-api:5.0
         ports:
         - containerPort: 8080
+
+        hi this is afrid
+        
